@@ -34,8 +34,6 @@ namespace Math.cs
             else
                 MoreMoney = false;
 
-            //Console.WriteLine("Annual Salary of Person 1: ");
-            //HourlyTwo =  Console.ReadLine();
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");
             Console.WriteLine(MoreMoney);
