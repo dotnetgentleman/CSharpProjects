@@ -26,10 +26,10 @@ namespace IncomeComparison
             Console.WriteLine("Hours worked per week: ");
             WorkedTwo = Convert.ToInt32(Console.ReadLine());
 
-            AnnualOne = HourlyOne * WorkedOne;
+            AnnualOne = 52 * (HourlyOne * WorkedOne);
             Console.WriteLine("Annual salary of Person 1: " + AnnualOne);
 
-            AnnualTwo = HourlyTwo * WorkedTwo;
+            AnnualTwo = 52 * (HourlyTwo * WorkedTwo);
             Console.WriteLine("Annual salary of Person 2: " + AnnualTwo);
 
             if (AnnualOne > AnnualTwo)
@@ -46,6 +46,7 @@ namespace IncomeComparison
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");
             Console.WriteLine(MoreMoney);
+            Console.ReadLine();
         }
     }
 }
