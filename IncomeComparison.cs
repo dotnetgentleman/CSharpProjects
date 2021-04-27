@@ -23,11 +23,22 @@ namespace Math.cs
             Console.WriteLine("Hours worked per week: ");
             WorkedTwo = Console.ReadLine();
 
-            Console.WriteLine("Annual Salary of Person 1: ");
-            HourlyTwo =  Console.ReadLine();
+            AnnualOne = HourlyOne * WorkedOne;
+            Console.WriteLine("Annual salary of Person 1: " + AnnualOne);
 
-            Console.WriteLine("Does Person 1 make more money than Person 2? true or false ");
-            MoreMoney =  Console.ReadLine();
+            AnnualTwo = HourlyTwo * WorkedTwo;
+            Console.WriteLine("Annual salary of Person 2: " + AnnualTwo);
+
+            if (AnnualOne > AnnualTwo)
+                MoreMoney = true;
+            else
+                MoreMoney = false;
+
+            //Console.WriteLine("Annual Salary of Person 1: ");
+            //HourlyTwo =  Console.ReadLine();
+
+            Console.WriteLine("Does Person 1 make more money than Person 2?");
+            Console.WriteLine(MoreMoney);
         }
     }
 }
