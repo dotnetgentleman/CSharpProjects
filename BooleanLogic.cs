@@ -22,9 +22,15 @@ namespace BooleanLogic
             bool qualified;
 
             if (age < 15 && hadDUI == false && speedingTickets <= 3)
+            {
                 qualified = true;
+            }
+                
             else
+            {
                 qualified = false;
+            }
+                
 
             Console.WriteLine("Qualified?\n" + qualified);
             Console.ReadLine();
