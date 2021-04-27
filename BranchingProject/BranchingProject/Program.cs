@@ -20,30 +20,40 @@ namespace BranchingProject
             if (weight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day. ");
-            }
-
-            Console.WriteLine("Please enter the package width.");
-            width = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Please enter the package height.");
-            height = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Please enter the package length.");
-            length = Convert.ToInt32(Console.ReadLine());
-
-            totalDimensions = width + height + length;
-
-            if (totalDimensions > 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
                 Console.ReadLine();
             }
 
-            totalPrice = ((width * height * length) * weight) / 100;
+            else
+            {
 
-            Console.WriteLine("Your estimated toal for shipping this package is: $" + totalPrice);
-            Console.WriteLine("Thank you!");
-            Console.ReadLine();
+                Console.WriteLine("Please enter the package width.");
+                width = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Please enter the package height.");
+                height = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Please enter the package length.");
+                length = Convert.ToInt32(Console.ReadLine());
+
+                totalDimensions = width + height + length;
+
+                if (totalDimensions > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                    Console.ReadLine();
+                }
+
+                else
+                {
+                    totalPrice = ((width * height * length) * weight) / 100;
+
+                    Console.WriteLine("Your estimated toal for shipping this package is: $" + totalPrice);
+                    Console.WriteLine("Thank you!");
+                    Console.ReadLine();
+                }
+                
+            }
+
         }
     }
 }
