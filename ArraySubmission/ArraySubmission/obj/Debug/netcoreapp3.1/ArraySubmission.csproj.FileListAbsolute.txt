@@ -1,0 +1,13 @@
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.csprojAssemblyReference.cache
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.AssemblyInfoInputs.cache
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.AssemblyInfo.cs
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.csproj.CoreCompileInputs.cache
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.exe
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.deps.json
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.runtimeconfig.json
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.runtimeconfig.dev.json
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.dll
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.pdb
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.dll
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.pdb
+F:\C# coding\Basic_C#_Programs\CSharpProjects\ArraySubmission\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.genruntimeconfig.cache
