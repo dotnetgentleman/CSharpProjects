@@ -1,0 +1,13 @@
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.exe
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.deps.json
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.runtimeconfig.json
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.runtimeconfig.dev.json
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.dll
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.pdb
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.AssemblyInfoInputs.cache
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.AssemblyInfo.cs
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.csproj.CoreCompileInputs.cache
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.dll
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.pdb
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.genruntimeconfig.cache
+F:\C# coding\Basic_C#_Programs\CSharpProjects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.csprojAssemblyReference.cache
